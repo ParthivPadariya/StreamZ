@@ -1,0 +1,8 @@
+.video-player{
+    z-index: 1;
+    margin-right: 30px;
+}
+
+.video-player p{
+    z-index: 1;
+}

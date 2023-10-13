@@ -1,0 +1,13 @@
+.meeting{
+    background-color: #141f27;
+    overflow-y: auto;
+}
+.video-view{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    margin-right: 30px;
+}
