@@ -7,12 +7,12 @@ const MeetingView = () => {
         startLivestream(
             [
                 {
-                    url: "rtmp://a.rtmp.youtube.com/live2",
-                    streamKey: "18ec-64v4-zmra-z89v-059z",
+                    url: "rtmp_url",
+                    streamKey: "stream_key",
                 },
                 {
-                    url: "rtmp://live.twitch.tv/app/",
-                    streamKey: "live_951038856_NlDQVQfu3vZteA7kDQfNRJ75Ou2rcL"
+                    url: "rtmp_url",
+                    streamKey: "stream_key"
                 }
             ],
             {
